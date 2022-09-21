@@ -4,7 +4,7 @@
 
 ## Primeiramente deve instalar os pacotes:
   
-  ###npm i
+  npm i
 
 ## O codigo esta em typescript e tem alguns scripts que facilita a nossa vida
 
@@ -12,5 +12,5 @@
 
 ## executar no terminal o comando :
 
-  ###npm run dev:server (execução do servidor)
+  npm run dev:server (execução do servidor)
 
